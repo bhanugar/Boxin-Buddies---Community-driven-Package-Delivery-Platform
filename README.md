@@ -55,6 +55,7 @@ Objectives
 ----------
 
 *   **From-scratch Database Design**: Design and implement a robust database using a well-planned ER diagram.
+    ![alt text](https://github.com/bhanugar/Boxin-Buddies---Community-driven-Package-Delivery-Platform/blob/fcbde51213470cb7a152c2a47eb2106a1280e938/dbms-boxin-erdiagram.png)
     
 *   **User-Friendly Platform**: Create an easy-to-navigate platform that allows users to send and track packages easily.
     
