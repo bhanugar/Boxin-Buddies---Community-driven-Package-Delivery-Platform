@@ -66,5 +66,6 @@ Objectives
 
 Conclusion
 ----------
-
+* [Project final Presentation](https://docs.google.com/presentation/d/10x1KZqiZLAkyVVjRzZv4czI-98oP0_yk/edit#slide=id.p1)
+  
 Boxin' Buddies was developed from the ground up, including designing a fully functional database system. By combining a user-friendly platform with a carefully crafted database architecture, Boxin' Buddies offers a new, efficient, and cost-effective way to manage package delivery services. The project provides value for both senders and travelers, creating a community-driven solution for package delivery.
